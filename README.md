@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="center">A passionate backend developer from Venezuela</h5>
+<h4 align="center">A passionate backend developer from Venezuela</h4>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">Languages and Tools:</h4>
+<h3 align="left">Languages and Tools:</h3>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h4 align="left">Connect with me:</h4>
+<h3 align="left">Connect with me:</h3>
 
 ###
 
