@@ -6,11 +6,14 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on report-engine</p>
-
-###
-
-<p align="left">🌱 I’m currently learning Nest.js, Laravel and Docker.</p>
+<ul>
+  <li>
+    <p align="left">🔭 I’m currently working on <b><a href="https://github.com/richardcort/report-engine">report-engine</a></b></p>
+  </li>
+  <li>
+    <p align="left">🌱 I’m currently learning <b>Nest.js, Laravel and Docker</b>.</p>
+  </li>
+</ul>
 
 ###
 
